@@ -7,7 +7,7 @@ xk6-dashboard is a k6 extension that enables creating web based metrics dashboar
 
 ```json
 "features": {
-    "ghcr.io/devcontainers-contrib/features/k6:1": {}
+    "ghcr.io/qweasd1/k6-features/xk6-dashboard:1": {}
 }
 ```
 

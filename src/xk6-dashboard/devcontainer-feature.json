@@ -1,8 +1,8 @@
 {
   "id": "xk6-dashboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "xk6-dashboard (via Github Releases)",
-  "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/k6",
+  "documentationURL": "https://github.com/qweasd1/k6-features/blob/main/src/xk6-dashboard",
   "description": "xk6-dashboard is a k6 extension that enables creating web based metrics dashboard for k6",
   "options": {
     "version": {
