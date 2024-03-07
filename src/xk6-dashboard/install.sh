@@ -15,7 +15,7 @@ $nanolayer_location \
     install \
     devcontainer-feature \
     "ghcr.io/devcontainers-contrib/features/gh-release:1.0.19" \
-    --option repo='grafana/xk6-dashboard' --option binaryNames='k6' --option version="$VERSION" --option assetRegex='linux'
+    --option repo='grafana/xk6-dashboard' --option binaryNames='k6' --option version="$VERSION" --option assetRegex='xk6-dashboard.*linux'
     
 
 
